@@ -1,0 +1,3 @@
+name: Test Plugin
+main: com.eltorqiro.bukkit.TestPlugin.TestPlugin
+version: 0.1
